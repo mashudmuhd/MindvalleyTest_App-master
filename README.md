@@ -1,4 +1,4 @@
-# Mindvalley Test App.
+# Mindvalley Project .
 
 # Task
 
